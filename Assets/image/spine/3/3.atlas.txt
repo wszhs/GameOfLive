@@ -1,0 +1,83 @@
+
+3.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzhengyan 01
+  rotate: false
+  xy: 312, 184
+  size: 71, 70
+  orig: 71, 70
+  offset: 0, 0
+  index: -1
+banzhengyan 02
+  rotate: false
+  xy: 312, 184
+  size: 71, 70
+  orig: 71, 70
+  offset: 0, 0
+  index: -1
+biyan 01
+  rotate: false
+  xy: 312, 112
+  size: 71, 70
+  orig: 71, 70
+  offset: 0, 0
+  index: -1
+biyan 02
+  rotate: false
+  xy: 312, 112
+  size: 71, 70
+  orig: 71, 70
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 45
+  size: 308, 209
+  orig: 308, 209
+  offset: 0, 0
+  index: -1
+feet 01
+  rotate: false
+  xy: 385, 148
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+feet 02
+  rotate: false
+  xy: 458, 220
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+hand 01
+  rotate: true
+  xy: 2, 2
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+hand 02
+  rotate: false
+  xy: 312, 67
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+zhengyan 01
+  rotate: false
+  xy: 385, 184
+  size: 71, 70
+  orig: 71, 70
+  offset: 0, 0
+  index: -1
+zhengyan 02
+  rotate: false
+  xy: 385, 184
+  size: 71, 70
+  orig: 71, 70
+  offset: 0, 0
+  index: -1

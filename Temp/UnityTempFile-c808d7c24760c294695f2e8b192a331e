@@ -1,0 +1,169 @@
+-debug
+-target:library
+-nowarn:0169
+-langversion:4
+-out:Temp/Assembly-CSharp.dll
+-r:"G:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll"
+-r:"G:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll"
+-r:"G:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll"
+-r:"G:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/PlaymodeTestsRunner/UnityEngine.PlaymodeTestsRunner.dll"
+-r:"G:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll"
+-r:"G:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll"
+-r:"G:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll"
+-r:"G:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll"
+-r:"G:/Program Files/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll"
+-r:"G:/Program Files/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll"
+-define:UNITY_5_3_OR_NEWER
+-define:UNITY_5_4_OR_NEWER
+-define:UNITY_5_5_OR_NEWER
+-define:UNITY_5_5_2
+-define:UNITY_5_5
+-define:UNITY_5
+-define:ENABLE_AUDIO
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_DUCK_TYPING
+-define:ENABLE_GENERICS
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_PHYSICS
+-define:ENABLE_SPRITERENDERER_FLIPPING
+-define:ENABLE_SPRITES
+-define:ENABLE_TERRAIN
+-define:ENABLE_RAKNET
+-define:ENABLE_UNET
+-define:ENABLE_LZMA
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_WEBCAM
+-define:ENABLE_WWW
+-define:ENABLE_CLOUD_SERVICES_COLLAB
+-define:ENABLE_CLOUD_SERVICES_ADS
+-define:ENABLE_CLOUD_HUB
+-define:ENABLE_CLOUD_PROJECT_ID
+-define:ENABLE_CLOUD_SERVICES_UNET
+-define:ENABLE_CLOUD_SERVICES_BUILD
+-define:ENABLE_CLOUD_LICENSE
+-define:ENABLE_EDITOR_METRICS
+-define:ENABLE_EDITOR_METRICS_CACHING
+-define:INCLUDE_DYNAMIC_GI
+-define:INCLUDE_GI
+-define:PLATFORM_SUPPORTS_MONO
+-define:RENDER_SOFTWARE_CURSOR
+-define:INCLUDE_PUBNUB
+-define:ENABLE_PLAYMODE_TESTS_RUNNER
+-define:ENABLE_SCRIPTING_NEW_CSHARP_COMPILER
+-define:UNITY_STANDALONE_WIN
+-define:UNITY_STANDALONE
+-define:ENABLE_SUBSTANCE
+-define:ENABLE_RUNTIME_GI
+-define:ENABLE_MOVIES
+-define:ENABLE_NETWORK
+-define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
+-define:ENABLE_UNITYWEBREQUEST
+-define:ENABLE_CLOUD_SERVICES
+-define:ENABLE_CLOUD_SERVICES_ANALYTICS
+-define:ENABLE_CLOUD_SERVICES_PURCHASING
+-define:ENABLE_CLOUD_SERVICES_CRASH_REPORTING
+-define:ENABLE_EVENT_QUEUE
+-define:ENABLE_CLUSTERINPUT
+-define:ENABLE_VIDEO
+-define:ENABLE_VR
+-define:ENABLE_WEBSOCKET_HOST
+-define:ENABLE_MONO
+-define:ENABLE_PROFILER
+-define:DEBUG
+-define:TRACE
+-define:UNITY_ASSERTIONS
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_64
+-define:UNITY_EDITOR_WIN
+-define:UNITY_TEAM_LICENSE
+-define:ENABLE_VSTU
+-define:UNITY_PRO_LICENSE
+Assets/Spine2dRuntime/spine-csharp/Animation.cs
+Assets/Spine2dRuntime/spine-csharp/AnimationState.cs
+Assets/Spine2dRuntime/spine-csharp/AnimationStateData.cs
+Assets/Spine2dRuntime/spine-csharp/Atlas.cs
+Assets/Spine2dRuntime/spine-csharp/Attachments/AtlasAttachmentLoader.cs
+Assets/Spine2dRuntime/spine-csharp/Attachments/Attachment.cs
+Assets/Spine2dRuntime/spine-csharp/Attachments/AttachmentLoader.cs
+Assets/Spine2dRuntime/spine-csharp/Attachments/AttachmentType.cs
+Assets/Spine2dRuntime/spine-csharp/Attachments/BoundingBoxAttachment.cs
+Assets/Spine2dRuntime/spine-csharp/Attachments/IFfdAttachment.cs
+Assets/Spine2dRuntime/spine-csharp/Attachments/MeshAttachment.cs
+Assets/Spine2dRuntime/spine-csharp/Attachments/RegionAttachment.cs
+Assets/Spine2dRuntime/spine-csharp/Attachments/WeightedMeshAttachment.cs
+Assets/Spine2dRuntime/spine-csharp/BlendMode.cs
+Assets/Spine2dRuntime/spine-csharp/Bone.cs
+Assets/Spine2dRuntime/spine-csharp/BoneData.cs
+Assets/Spine2dRuntime/spine-csharp/Event.cs
+Assets/Spine2dRuntime/spine-csharp/EventData.cs
+Assets/Spine2dRuntime/spine-csharp/ExposedList.cs
+Assets/Spine2dRuntime/spine-csharp/IUpdatable.cs
+Assets/Spine2dRuntime/spine-csharp/IkConstraint.cs
+Assets/Spine2dRuntime/spine-csharp/IkConstraintData.cs
+Assets/Spine2dRuntime/spine-csharp/Json.cs
+Assets/Spine2dRuntime/spine-csharp/MathUtils.cs
+Assets/Spine2dRuntime/spine-csharp/Skeleton.cs
+Assets/Spine2dRuntime/spine-csharp/SkeletonBinary.cs
+Assets/Spine2dRuntime/spine-csharp/SkeletonBounds.cs
+Assets/Spine2dRuntime/spine-csharp/SkeletonData.cs
+Assets/Spine2dRuntime/spine-csharp/SkeletonJson.cs
+Assets/Spine2dRuntime/spine-csharp/Skin.cs
+Assets/Spine2dRuntime/spine-csharp/Slot.cs
+Assets/Spine2dRuntime/spine-csharp/SlotData.cs
+Assets/Spine2dRuntime/spine-csharp/TransformConstraint.cs
+Assets/Spine2dRuntime/spine-csharp/TransformConstraintData.cs
+"Assets/Spine2dRuntime/spine-unity/Asset Types/AtlasAsset.cs"
+"Assets/Spine2dRuntime/spine-unity/Asset Types/SkeletonDataAsset.cs"
+Assets/Spine2dRuntime/spine-unity/BoneFollower.cs
+Assets/Spine2dRuntime/spine-unity/ISkeletonAnimation.cs
+"Assets/Spine2dRuntime/spine-unity/Mesh Generation/Arrays/ArraysMeshGenerator.cs"
+"Assets/Spine2dRuntime/spine-unity/Mesh Generation/Arrays/ArraysSimpleMeshGenerator.cs"
+"Assets/Spine2dRuntime/spine-unity/Mesh Generation/Arrays/ArraysSubmeshSetMeshGenerator.cs"
+"Assets/Spine2dRuntime/spine-unity/Mesh Generation/Arrays/ArraysSubmeshedMeshGenerator.cs"
+"Assets/Spine2dRuntime/spine-unity/Mesh Generation/DoubleBuffered.cs"
+"Assets/Spine2dRuntime/spine-unity/Mesh Generation/DoubleBufferedMesh.cs"
+"Assets/Spine2dRuntime/spine-unity/Mesh Generation/ISimpleMeshGenerator.cs"
+"Assets/Spine2dRuntime/spine-unity/Mesh Generation/ISubmeshedMeshGenerator.cs"
+"Assets/Spine2dRuntime/spine-unity/Mesh Generation/SpineMesh.cs"
+Assets/Spine2dRuntime/spine-unity/Modules/AtlasRegionAttacher.cs
+Assets/Spine2dRuntime/spine-unity/Modules/BoundingBoxFollower/BoundingBoxFollower.cs
+Assets/Spine2dRuntime/spine-unity/Modules/CustomMaterials/SkeletonRendererCustomMaterials.cs
+Assets/Spine2dRuntime/spine-unity/Modules/CustomSkin.cs
+Assets/Spine2dRuntime/spine-unity/Modules/Ghost/SkeletonGhost.cs
+Assets/Spine2dRuntime/spine-unity/Modules/Ghost/SkeletonGhostRenderer.cs
+Assets/Spine2dRuntime/spine-unity/Modules/Ragdoll/SkeletonRagdoll.cs
+Assets/Spine2dRuntime/spine-unity/Modules/Ragdoll/SkeletonRagdoll2D.cs
+Assets/Spine2dRuntime/spine-unity/Modules/SkeletonGraphic/SkeletonGraphic.cs
+Assets/Spine2dRuntime/spine-unity/Modules/SkeletonRenderSeparator/SkeletonPartsRenderer.cs
+Assets/Spine2dRuntime/spine-unity/Modules/SkeletonRenderSeparator/SkeletonRenderSeparator.cs
+"Assets/Spine2dRuntime/spine-unity/Modules/SkeletonUtility Modules/SkeletonUtilityEyeConstraint.cs"
+"Assets/Spine2dRuntime/spine-unity/Modules/SkeletonUtility Modules/SkeletonUtilityGroundConstraint.cs"
+"Assets/Spine2dRuntime/spine-unity/Modules/SkeletonUtility Modules/SkeletonUtilityKinematicShadow.cs"
+Assets/Spine2dRuntime/spine-unity/Modules/SpriteAttacher.cs
+Assets/Spine2dRuntime/spine-unity/Modules/TK2D/SpriteCollectionAttachmentLoader.cs
+Assets/Spine2dRuntime/spine-unity/Modules/YieldInstructions/WaitForSpineAnimationComplete.cs
+Assets/Spine2dRuntime/spine-unity/Modules/YieldInstructions/WaitForSpineEvent.cs
+Assets/Spine2dRuntime/spine-unity/SkeletonAnimation.cs
+Assets/Spine2dRuntime/spine-unity/SkeletonAnimator.cs
+Assets/Spine2dRuntime/spine-unity/SkeletonExtensions.cs
+Assets/Spine2dRuntime/spine-unity/SkeletonRenderer.cs
+Assets/Spine2dRuntime/spine-unity/SkeletonUtility/SkeletonUtility.cs
+Assets/Spine2dRuntime/spine-unity/SkeletonUtility/SkeletonUtilityBone.cs
+Assets/Spine2dRuntime/spine-unity/SkeletonUtility/SkeletonUtilityConstraint.cs
+Assets/Spine2dRuntime/spine-unity/SkeletonUtility/SkeletonUtilitySubmeshRenderer.cs
+Assets/Spine2dRuntime/spine-unity/SpineAttributes.cs
+Assets/scripts/BeanSingle.cs
+Assets/scripts/CreateTable.cs
+Assets/scripts/LifeGame.cs
+Assets/scripts/Managerbeans.cs
+Assets/scripts/PosPoint.cs
+Assets/scripts/Screenshot.cs
+Assets/scripts/SearchAlg.cs
+-r:"G:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity\System.Runtime.Serialization.dll"
+-r:"G:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity\System.Xml.Linq.dll"
+-r:"G:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity\UnityScript.dll"
+-r:"G:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity\UnityScript.Lang.dll"
+-r:"G:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity\Boo.Lang.dll"
+-sdk:unity
